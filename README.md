@@ -1,6 +1,6 @@
 # Toyota-Dashboard-using-PowerBI-and-Excel
 In this project (which Language is in Spanish), I've created Dashboards using fictional data about Toyota, this is a personal project about Business Intelligence and Data Analytics.
-
+![Data Model](ToyotaTables.JPG)
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
